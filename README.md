@@ -5,8 +5,8 @@ Hay una parte en la configuracion de heroku, se puede hacer tambien
 por lineas de comando en caso de no usar un repositorio de la 
 siguiente manera: 
 
-heroku config:set NPM_CONFIG_PRODUCTION=false
-heroku config:set NODE_ENV=production
+<p>heroku config:set NPM_CONFIG_PRODUCTION=false</p>
+<p>heroku config:set NODE_ENV=production</p>
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
