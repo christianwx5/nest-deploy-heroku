@@ -91,6 +91,7 @@ Nest is [MIT licensed](LICENSE).
 
 <h1>Implementacion de vercel (la explicacion esta en ingles)</h1>
 
+<h3>Fuentes: https://cdmana.com/2021/11/20211114070316640R.html </h3>
 
 <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
                     <div class="page-wrapper">
